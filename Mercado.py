@@ -37,7 +37,7 @@ print(f'''
 {C}   ●▬▬▬▬๑▬▬▬▬๑▬▬▬▬●
 {XV}         Do
 {C}   ●▬▬▬▬๑▬▬▬▬๑▬▬▬▬●
-{XV}   Zeus Xereca
+{XV}   Zeus Xaloc
 {C}●▬▬▬▬๑▬▬▬▬๑▬▬▬▬●
 ''')
 opção = 0
